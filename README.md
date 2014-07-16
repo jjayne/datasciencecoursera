@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Course project assignment
+Read me, please.
